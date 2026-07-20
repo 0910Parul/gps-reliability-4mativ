@@ -129,6 +129,6 @@ gps-reliability-4mativ/
 **Team:** Group 7, Carlson MSBA — Exploratory Data Analysis live case (Spring 2026).
 **My contribution:** _[Add 1–2 lines on what you specifically owned — e.g., built the GPS reliability scoring pipeline and the vendor scorecard / designed the Streamlit dashboard.]_
 
-Built by **Parul Chaudhary** · [LinkedIn](#) · [Email](mailto:parul.jaswant@gmail.com)
+Built by **Parul Chaudhary** · [LinkedIn](https://www.linkedin.com/in/parul-chaudhary-39269b213) · [Email](mailto:parul.jaswant@gmail.com)
 
 > *Client data used with permission. Analysis and framework presented for portfolio purposes.*
